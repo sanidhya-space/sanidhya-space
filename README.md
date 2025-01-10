@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+https://mmistakes.github.io/jekyll-theme-skinny-bones/getting-started/
+
 <!--
 **sanidhya-space/sanidhya-space** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
