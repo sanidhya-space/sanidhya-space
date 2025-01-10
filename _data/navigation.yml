@@ -1,0 +1,20 @@
+# Site navigation links
+
+- title: Projects
+  url: /projects/
+  excerpt: "Descriptions of my projects"
+  image:
+
+- title: Blogs
+  url: /blogs/
+  excerpt: "Descriptions of my projects"
+  image:
+
+- title: Photography
+  url: /photography/
+  excerpt: "photos"
+  image:
+
+- title: About
+  url: /about/
+
