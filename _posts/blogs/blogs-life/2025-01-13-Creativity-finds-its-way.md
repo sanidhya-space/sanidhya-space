@@ -8,4 +8,5 @@ image:
   feature:
   teaser: \blogs\blogs-life\creativity_way\creativity_way_teaser.jpg
   thumb:
+comments: true
 ---

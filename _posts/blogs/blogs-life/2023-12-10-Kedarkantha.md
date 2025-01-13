@@ -8,6 +8,7 @@ image:
   feature:
   teaser: \blogs\blogs-life\kedarkantha\kedarkantha-teaser.gif
   thumb:
+comments: true
 ---
 
 In December 2023, I planned to a trek to Kedarkantha. Kedarkantha is a part of Garhwal Himalaya range. Its elevation is 12500 ft (3800 m). The mountain is located within the Govind wildlife sanctuary in Uttarkashi district of Uttarakhand.
