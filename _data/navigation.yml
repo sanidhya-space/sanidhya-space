@@ -3,18 +3,20 @@
 - title: Projects
   url: /projects/
   excerpt: "Descriptions of my projects"
-  image:
+  image: sitenav/projects.gif
 
 - title: Blogs
   url: /blogs/
   excerpt: "Descriptions of my projects"
-  image:
+  image: sitenav/blogs.gif
 
 - title: Photography
   url: /photography/
   excerpt: "photos"
-  image:
+  image: sitenav/photography.gif
 
 - title: About
   url: /about/
+  excerpt: "photos"
+  image: sitenav/aboutme.gif
 
