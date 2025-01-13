@@ -6,7 +6,7 @@ image:
   feature:
   teaser:
   thumb:
-ads: false  
+ads: true 
 ---
 
 <div class="tiles">
