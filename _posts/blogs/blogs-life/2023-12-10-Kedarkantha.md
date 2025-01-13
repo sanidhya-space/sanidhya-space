@@ -4,7 +4,6 @@ layout: article
 categories: [blogs,blogs-life]
 excerpt:
 tags: []
-ads: true
 image:
   feature:
   teaser: \blogs\blogs-life\kedarkantha\kedarkantha-teaser.gif

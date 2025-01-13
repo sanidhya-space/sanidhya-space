@@ -2,7 +2,6 @@
 layout: archive
 permalink: /
 title: "Welcome to my Space!"
-ads: true
 ---
 
 I am thrilled to have you here, exploring a collection of my creative journey and professional endeavors.

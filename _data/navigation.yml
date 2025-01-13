@@ -2,21 +2,21 @@
 
 - title: Projects
   url: /projects/
-  excerpt: "Descriptions of my projects"
+  excerpt: "Project Portfolio"
   image: sitenav/projects.gif
 
 - title: Blogs
   url: /blogs/
-  excerpt: "Descriptions of my projects"
+  excerpt: "Articles on Space, Technology and Life in General "
   image: sitenav/blogs.gif
 
 - title: Photography
   url: /photography/
-  excerpt: "photos"
+  excerpt: "Check out some of my clicks"
   image: sitenav/photography.gif
 
 - title: About
   url: /about/
-  excerpt: "photos"
+  excerpt: "Know more about me!"
   image: sitenav/aboutme.gif
 
