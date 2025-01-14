@@ -10,10 +10,8 @@ image:
 ---
 
 <div class="tiles">
-<h2> Space </h2>
-{% for post in site.categories.blogs-space %}
+{% for post in site.categories.blogs%}
 	{% include post-grid.html %}
 {% endfor %}
 </div><!-- /.tiles -->
 
-something

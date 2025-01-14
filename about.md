@@ -13,3 +13,19 @@ I am an Engineer currently working at [HEX20](https://hex20.space/). Prior to it
 ## Contact me
 You can contact me at [vijaywatsanidhya@gmail.com](mailto:vijaywatsanidhya@gmail.com).
 
+<script
+        src="https://topmate-embed.s3.ap-south-1.amazonaws.com/v1/topmate-embed.js"
+        user-profile="https://topmate.io/embed/profile/sanidhya_space?theme=E18C45"
+        btn-style='{"backgroundColor":"#000","color":"#fff","border":"1px solid #000"}'
+        embed-version="v1"
+        button-text="Connect on Topmate.io"
+        position-right="30px"
+        position-bottom="30px"
+        custom-padding="0px"
+        custom-font-size="16px"
+        custom-font-weight="500"
+        custom-width="200px"
+        async=""
+        defer=""
+      ></script>
+

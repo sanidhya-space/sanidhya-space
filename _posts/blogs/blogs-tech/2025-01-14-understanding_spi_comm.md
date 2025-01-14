@@ -1,12 +1,12 @@
 ---
-title: "Tech 1"
+title: "Understanding SPI Communication and how it works"
 layout: article
 categories: [blogs,blogs-technology]
 excerpt:
 tags: []
 image:
   feature:
-  teaser:
+  teaser: /blogs/blogs-tech/SPI_working/SPI_working.gif
   thumb:
 ---
 
